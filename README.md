@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KolaRajlakshmi (K.Rajlakshmi)
+- 👋 Hi, I’m @Kola Rajlakshmi (K.Rajlakshmi)
 - 👀 I'm a passionate data scientist and data analyst actively seeking opportunities in the field.
 - 🌱 My goal is to leverage data to drive insights and make informed decisions.
 - 💞️ My Vision,my journey in the world of data science is driven by a strong desire to excel in my desired role as a data scientist or data analyst.
